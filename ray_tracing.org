@@ -2,3 +2,7 @@
 #+TITLE: Ray Tracing
 #+AUTHOR: http://h4labs.com
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+
+* Inbox
++ http://www.lexicallyscoped.com/2013/05/16/back-to-ray-tracing.html
++ http://psgraphics.blogspot.com/2016/01/new-mini-book-ray-tracing-in-one-weekend.html
