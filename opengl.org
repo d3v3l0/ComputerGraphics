@@ -1,0 +1,92 @@
+#+STARTUP: showall
+#+TITLE: OpenGL
+#+AUTHOR: http://h4labs.com
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+
+#+INCLUDE: "graphics_menu.org"
+
+* Inbox
++ [[https://github.com/ssloy/tinyrenderer/wiki][How OpenGL works: software renderer in 500 lines of code]]
+ - https://news.ycombinator.com/item?id=11264469
++ http://learnopengl.com
+ - https://news.ycombinator.com/item?id=9751666
++ http://nullprogram.com/blog/2015/06/06/
++ http://github.com/stackgl/glsl-lighting-walkthrough
++ http://news.ycombinator.com/item?id=9331126 - WebGL Fundamentals
++ http://www.cs.princeton.edu/~dpw/popl/06/Tim-POPL.ppt
++ http://github.com/patriciogonzalezvivo/glslViewer
++ http://news.ycombinator.com/item?id=7730415 - Things that drive me nuts about OpenGL
++ http://code.formconstantdance.org/post/79687709876/building-a-webgl-logo
++ http://news.ycombinator.com/item?id=7744969 - Learning Modern OpenGL
++ http://gamedev.stackexchange.com/questions/1128/what-are-some-good-learning-resources-for-opengl
++ http://blog.db-in.com/all-about-opengl-es-2-x-part-1/
++ http://blog.db-in.com/all-about-opengl-es-2-x-part-2/
++ http://blog.db-in.com/all-about-opengl-es-2-x-part-3/
++ http://maniacdev.com/opengl-es-tutorial-and-guide
++ http://www.dreamincode.net/forums/topic/150805-circle-in-opengl/
++ http://www.glprogramming.com/red/
++ http://androidgroup.googlecode.com/files/Unlocking%20Android.pdf
++ http://mattdesl.svbtle.com/glslify - modular and versioned GLSL
++ http://weworkweplay.com/play/introduction-to-glsl-and-fragment-pixel-shaders
++ http://www.reddit.com/r/gamedev/comments/2eb5d8/copenglsdl_game_engine_tutorials_for_an_absolute
++ http://www.joshbarczak.com/blog/?p=558 - Why Triangles
+
+* Shaders
++ http://github.com/mattdesl/lwjgl-basics/wiki/Shaders
++ http://news.ycombinator.com/item?id=7536034 - Primer: Shaders
++ http://patriciogonzalezvivo.com/2015/thebookofshaders
+ - http://news.ycombinator.com/item?id=9215582 - The Book of Shaders
+
+* iOS
++ http://www.raywenderlich.com/3664/opengl-es-20-for-iphone-tutorial
++ http://iphone-development-source-codes.blogspot.in/2012/02/resources-for-learning-iphone-opengl-es.html
++ http://iphonedevelopment.blogspot.in/2009/05/opengl-es-from-ground-up-table-of.html
+
+* Android
++ http://www.droidnova.com/android-3d-game-tutorial-part-i,312.html
+
+* WebGL
++ http://medium.com/social-tables-tech/hello-world-webgl-79f430446b5c
++ http://news.ycombinator.com/item?id=8417178 - Shdr - Online GLSL shader editor and validator with live preview
+
+#+BEGIN_EXAMPLE
+Window coordinates
+  (0,0) to (320,480)
+
+Normalized Device Coordinates
+  0,0 is center
+  1,1 is top right
+  -1,-1 is bottom left
+Actually cube
+  -1,-1,-1
+
+Clip Coordinates
+  cuts out geometry's not in bounding box
+
+Eye coordinates - 
+Have notion of camera
+Frustum - 
+  0,0 is center
+
+World Coordinates
+  arbitrary - no OpenGL meaning
+
+Object Coordinates
+
+ES1Renderer.m
+  render method
+
+glOrthof - for 2d
+  around 17m in episode 19
+
+glFrustrumf - for 3d
+
+Transformations are applied backwards!!!
+
+Gl_triangle_strips - reuse last 2 vertices
+  28min
+
+Clockwise means backward facing
+Cclockwise is front facing
+
+#+END_EXAMPLE
