@@ -7,3 +7,4 @@
 * Inbox
 
 + http://www.math.ubc.ca/~cass/gfx/bezier.html
++ [[+ http://pomax.github.io/bezierinfo/][A Primer on Bézier Curves]]
