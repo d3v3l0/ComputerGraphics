@@ -1,2 +1,21 @@
+#+STARTUP: showall
+#+TITLE: Computer Graphics Topics
+#+AUTHOR: http://h4labs.com
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+
+#+INCLUDE: "graphics_menu.org"
 Menu: [[file:bezier.org][Bezier Curves]] | [[opengl.org][OpenGL]] | [[file:ray_tracing.org][Ray Tracing]]
 
+* Inbox
++ http://design.tutsplus.com/tutorials/create-dimension-with-gradients-in-this-abstract-poster-design--cms-21974
++ http://news.ycombinator.com/item?id=8875408 - The Tungsten Renderer (noobody.org)
++ http://www.fxguide.com/featured/the-art-of-rendering
++ http://news.ycombinator.com/item?id=7381511 - How to create 2D visibility/shadow effects for your game
++ http://www.drdobbs.com/parallel/graphics-programming-black-book/184404919
++ http://github.com/jagregory/abrash-black-book/releases
++ http://www.ibm.com/developerworks/library/os-physicsengines/
++ http://inamidst.com/stuff/notes/csspx - CSS px is an Angular Measurement
+
+* Perlin Noise
++ http://mrl.nyu.edu/~perlin/courses/fall2014/
++ http://mrl.nyu.edu/~perlin/courses/fall2013/oct30/
