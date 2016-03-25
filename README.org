@@ -15,6 +15,9 @@ Menu: [[file:bezier.org][Bezier Curves]] | [[opengl.org][OpenGL]] | [[file:ray_t
 + http://github.com/jagregory/abrash-black-book/releases
 + http://www.ibm.com/developerworks/library/os-physicsengines/
 + http://inamidst.com/stuff/notes/csspx - CSS px is an Angular Measurement
++ [[http://www.aduprat.com/portfolio/?page=articles%2FPBGI][Real time Point Based Global Illumination]]
+ - https://news.ycombinator.com/item?id=11357987
+
 
 * Perlin Noise
 + http://mrl.nyu.edu/~perlin/courses/fall2014/
