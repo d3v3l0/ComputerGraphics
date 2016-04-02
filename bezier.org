@@ -10,3 +10,4 @@
 + [[http://pomax.github.io/bezierinfo/][A Primer on Bézier Curves]]
  - https://news.ycombinator.com/item?id=11402656
 + [[https://www.jasondavies.com/animated-bezier/][Animated Bézier Curves]]
++ http://ciechanowski.me/blog/2014/02/18/drawing-bezier-curves/
