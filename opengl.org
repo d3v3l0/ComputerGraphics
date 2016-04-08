@@ -37,6 +37,7 @@
 + http://patriciogonzalezvivo.com/2015/thebookofshaders
  - http://news.ycombinator.com/item?id=9215582 - The Book of Shaders
  - https://news.ycombinator.com/item?id=11457322
++ https://www.shadertoy.com/
 
 * iOS
 + http://www.raywenderlich.com/3664/opengl-es-20-for-iphone-tutorial
