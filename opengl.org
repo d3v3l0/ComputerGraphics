@@ -40,6 +40,8 @@
  - https://news.ycombinator.com/item?id=11457322
 + https://www.shadertoy.com/
 + http://shaderfrog.com/
++ http://shdr.bkcore.com
+
 
 * iOS
 + http://www.raywenderlich.com/3664/opengl-es-20-for-iphone-tutorial
