@@ -6,3 +6,5 @@
 * Inbox
 + http://www.lexicallyscoped.com/2013/05/16/back-to-ray-tracing.html
 + http://psgraphics.blogspot.com/2016/01/new-mini-book-ray-tracing-in-one-weekend.html
++ [[http://www.superjer.com/pixelmachine/][Building a Ray-Tracing 3D Renderer from Scratch]]
+ - https://news.ycombinator.com/item?id=11597445
