@@ -7,6 +7,9 @@
 Menu: [[file:bezier.org][Bezier Curves]] | [[opengl.org][OpenGL]] | [[file:ray_tracing.org][Ray Tracing]]
 
 * Inbox
++ [[https://www.khanacademy.org/partner-content/pixar][Pixar in a Box]]
+ - https://news.ycombinator.com/item?id=10129914
+ - https://news.ycombinator.com/item?id=11761622
 + http://design.tutsplus.com/tutorials/create-dimension-with-gradients-in-this-abstract-poster-design--cms-21974
 + http://news.ycombinator.com/item?id=8875408 - The Tungsten Renderer (noobody.org)
 + http://www.fxguide.com/featured/the-art-of-rendering
