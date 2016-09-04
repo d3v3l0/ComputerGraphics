@@ -12,3 +12,5 @@
  - https://news.ycombinator.com/item?id=11597445
 + [[http://fabiensanglard.net/rayTracing_back_of_business_card/index.php][Deciphering the Business Card Raytracer]]
 + [[http://www.kevinbeason.com/smallpt/][smallpt: Global Illumination in 99 lines of C++]]
++ [[http://www.joshbarczak.com/blog/?p=1197][GPU Ray Tracing The Wrong Way]]
+ - https://news.ycombinator.com/item?id=12423794
