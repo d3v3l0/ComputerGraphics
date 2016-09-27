@@ -42,3 +42,4 @@ Menu: [[file:bezier.org][Bezier Curves]] | [[opengl.org][OpenGL]] | [[file:ray_t
  - https://news.ycombinator.com/item?id=11776778
 + [[http://nullprogram.com/blog/2015/07/10/][Mandelbrot Set with SIMD Intrinsics]]
  - https://news.ycombinator.com/item?id=9866613
++ [[https://christopherolah.wordpress.com/2011/08/08/the-real-3d-mandelbrot-set/][The Real 3D Mandelbrot Set]]
