@@ -40,5 +40,6 @@ Menu: [[file:bezier.org][Bezier Curves]] | [[opengl.org][OpenGL]] | [[file:ray_t
 + [[http://yannesposito.com/Scratch/en/blog/Haskell-OpenGL-Mandelbrot/][Haskell Progressive Example]]
 + http://slicker.me/fractals/fractals.htm
  - https://news.ycombinator.com/item?id=11776778
++ [[http://nullprogram.com/blog/2015/07/10/][Mandelbrot Set with SIMD Intrinsics]]
+ - https://news.ycombinator.com/item?id=9866613
 
- 
