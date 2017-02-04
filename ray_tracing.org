@@ -10,6 +10,9 @@
  - https://news.ycombinator.com/item?id=12311860
 + [[http://www.lexicallyscoped.com/2013/05/16/back-to-ray-tracing.html][Back to Ray Tracing]]
 + [[http://psgraphics.blogspot.com/2016/01/new-mini-book-ray-tracing-in-one-weekend.html][New mini-book: Ray Tracing in One Weekend]]
+ - https://github.com/mebmichael/InOneWeekendSwift - Swift port
+ - https://github.com/Ceroce/SwiftRay - Swift port - Swift port
+ - http://mhorga.org/2016/03/21/ray-tracing-in-a-swift-playground.html - Swift port
 + [[http://www.superjer.com/pixelmachine/][Building a Ray-Tracing 3D Renderer from Scratch]]
  - https://news.ycombinator.com/item?id=11597445
 + [[http://fabiensanglard.net/rayTracing_back_of_business_card/index.php][Deciphering the Business Card Raytracer]]
