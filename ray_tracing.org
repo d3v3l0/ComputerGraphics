@@ -15,6 +15,8 @@
 + [[http://fabiensanglard.net/rayTracing_back_of_business_card/index.php][Deciphering the Business Card Raytracer]]
 + [[http://www.kevinbeason.com/smallpt/][smallpt: Global Illumination in 99 lines of C++]]
  - https://news.ycombinator.com/item?id=13565550
+ - https://m.youtube.com/watch?v=cDi-uti2oLQ - Code walkthrough
+ - https://users.cg.tuwien.ac.at/zsolnai/gfx/smallpaint/
 + [[http://www.joshbarczak.com/blog/?p=1197][GPU Ray Tracing The Wrong Way]]
  - https://news.ycombinator.com/item?id=12423794
 + [[https://github.com/burtonsamograd/emacs-jit/blob/master/lisp/raytracer.el][Raytracer.el: a raytracer in Emacs Lisp]]
