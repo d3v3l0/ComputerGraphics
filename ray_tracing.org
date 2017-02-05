@@ -25,3 +25,5 @@
 + [[https://github.com/burtonsamograd/emacs-jit/blob/master/lisp/raytracer.el][Raytracer.el: a raytracer in Emacs Lisp]]
  - https://news.ycombinator.com/item?id=13252975
  
+* Videos
++ [[http://www.youtube.com/playlist?list=PL_w_qWAQZtAYd0Kxmq17YXwqXkO1MVrqi][UC Davis - Ray Tracing for Global Illumination]]
