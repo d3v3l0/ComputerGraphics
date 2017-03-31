@@ -36,6 +36,8 @@ Menu: [[file:bezier.org][Bezier Curves]] | [[opengl.org][OpenGL]] | [[file:ray_t
  - https://news.ycombinator.com/item?id=11264005
 
 * Mandelbrot
++ https://medium.com/dailyjs/the-mandelwat-set-c3037204bf83
+ - https://news.ycombinator.com/item?id=13999110
 + https://en.m.wikipedia.org/wiki/Burning_Ship_fractal
  - https://news.ycombinator.com/item?id=12581569
 + [[http://yannesposito.com/Scratch/en/blog/Haskell-OpenGL-Mandelbrot/][Haskell Progressive Example]]
