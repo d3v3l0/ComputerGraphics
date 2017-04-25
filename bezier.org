@@ -9,6 +9,7 @@
 + http://www.math.ubc.ca/~cass/gfx/bezier.html
 + [[http://pomax.github.io/bezierinfo/][A Primer on Bézier Curves]]
  - https://news.ycombinator.com/item?id=11402656
+ - https://news.ycombinator.com/item?id=14191577
 + [[https://www.jasondavies.com/animated-bezier/][Animated Bézier Curves]]
 + http://ciechanowski.me/blog/2014/02/18/drawing-bezier-curves/
 + https://buildingvts.com/mathematical-intuition-behind-bezier-curves-2ea4e9645681
