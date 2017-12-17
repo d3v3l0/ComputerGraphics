@@ -4,6 +4,8 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
 
 * Inbox
++ [[https://sniklaus.com/blog/raytracer][Webassembly Raytracer]]
+ - https://news.ycombinator.com/item?id=15939036
 + https://news.ycombinator.com/item?id=15522428
 + http://mrl.nyu.edu/~perlin/raytrace1_breakdown/
  - https://news.ycombinator.com/item?id=13563577
