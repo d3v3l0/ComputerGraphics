@@ -4,6 +4,8 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
 
 * Inbox
++ https://tmcw.github.io/literate-raytracer/
+  - https://news.ycombinator.com/item?id=18127732
 + http://psgraphics.blogspot.com/2017/12/rendering-moon-sun-and-sky.html
 + [[https://sniklaus.com/blog/raytracer][Webassembly Raytracer]]
  - https://news.ycombinator.com/item?id=15939036
