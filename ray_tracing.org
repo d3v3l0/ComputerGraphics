@@ -4,6 +4,7 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
 
 * Inbox
++ http://www.realtimerendering.com/blog/an-introduction-to-ray-tracing-is-now-free-for-download/
 + https://tmcw.github.io/literate-raytracer/
   - https://news.ycombinator.com/item?id=18127732
 + http://psgraphics.blogspot.com/2017/12/rendering-moon-sun-and-sky.html
