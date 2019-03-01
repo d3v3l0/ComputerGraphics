@@ -1,16 +1,13 @@
-#+STARTUP: showall
-#+TITLE: Computer Graphics Topics
-#+AUTHOR: http://h4labs.com
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+# Computer Graphics Topics
 
-#+INCLUDE: "graphics_menu.org"
-Menu: [[file:bezier.org][Bezier Curves]] | [[opengl.org][OpenGL]] | [[file:ray_tracing.org][Ray Tracing]]
+Menu: [Bezier Curves](bezier.md) | [OpenGL](opengl.md) | [Ray Tracing](ray_tracing.md)
 
-* Inbox
-+ [[http://iquilezles.org/www/index.htm][Articles on fractals, computer graphics, mathematics, demoscene and more]]
+## Inbox
+
++ [Articles on fractals, computer graphics, mathematics, demoscene and more](http://iquilezles.org/www/index.htm)
  - https://news.ycombinator.com/item?id=15188152
-+ [[http://stephaniehurlburt.com/blog/2016/10/28/casual-introduction-to-low-level-graphics-programming][Casual Introduction to Low-Level Graphics Programming]]
-+ [[https://www.khanacademy.org/partner-content/pixar][Pixar in a Box]]
++ [Casual Introduction to Low-Level Graphics Programming](http://stephaniehurlburt.com/blog/2016/10/28/casual-introduction-to-low-level-graphics-programming)
++ [Pixar in a Box](https://www.khanacademy.org/partner-content/pixar)
  - https://news.ycombinator.com/item?id=10129914
  - https://news.ycombinator.com/item?id=11761622
 + http://design.tutsplus.com/tutorials/create-dimension-with-gradients-in-this-abstract-poster-design--cms-21974
@@ -21,30 +18,33 @@ Menu: [[file:bezier.org][Bezier Curves]] | [[opengl.org][OpenGL]] | [[file:ray_t
 + http://github.com/jagregory/abrash-black-book/releases
 + http://www.ibm.com/developerworks/library/os-physicsengines/
 + http://inamidst.com/stuff/notes/csspx - CSS px is an Angular Measurement
-+ [[http://www.aduprat.com/portfolio/?page=articles%2FPBGI][Real time Point Based Global Illumination]]
++ [Real time Point Based Global Illumination](http://www.aduprat.com/portfolio/?page=articles%2FPBGI)
  - https://news.ycombinator.com/item?id=11357987
 + http://www.iquilezles.org/ - Íñigo Quílez
 + http://scratchapixel.com/
  - https://news.ycombinator.com/item?id=11744763
 
-* Perlin Noise
+## Perlin Noise
+
 + http://mrl.nyu.edu/~perlin/courses/fall2014/
 + http://mrl.nyu.edu/~perlin/courses/fall2013/oct30/
 + https://eev.ee/blog/2016/05/29/perlin-noise/
  - https://news.ycombinator.com/item?id=11802275
 
-* Image Processing
+## Image Processing
+
 + [[https://codewords.recurse.com/issues/six/image-processing-101][Image Processing 101]]
  - https://news.ycombinator.com/item?id=11264005
 
-* Mandelbrot
+## Mandelbrot
+
 + https://medium.com/dailyjs/the-mandelwat-set-c3037204bf83
  - https://news.ycombinator.com/item?id=13999110
 + https://en.m.wikipedia.org/wiki/Burning_Ship_fractal
  - https://news.ycombinator.com/item?id=12581569
-+ [[http://yannesposito.com/Scratch/en/blog/Haskell-OpenGL-Mandelbrot/][Haskell Progressive Example]]
-+ [[http://slicker.me/fractals/fractals.htm][The Mandelbrot set in JavaScript]]
++ [Haskell Progressive Example](http://yannesposito.com/Scratch/en/blog/Haskell-OpenGL-Mandelbrot/)
++ [The Mandelbrot set in JavaScript](http://slicker.me/fractals/fractals.htm)
  - https://news.ycombinator.com/item?id=11776778
-+ [[http://nullprogram.com/blog/2015/07/10/][Mandelbrot Set with SIMD Intrinsics]]
++ [Mandelbrot Set with SIMD Intrinsics](http://nullprogram.com/blog/2015/07/10/)
  - https://news.ycombinator.com/item?id=9866613
-+ [[https://christopherolah.wordpress.com/2011/08/08/the-real-3d-mandelbrot-set/][The Real 3D Mandelbrot Set]]
++ [The Real 3D Mandelbrot Set](https://christopherolah.wordpress.com/2011/08/08/the-real-3d-mandelbrot-set/)
