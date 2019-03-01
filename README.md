@@ -5,7 +5,7 @@ Menu: [Bezier Curves](bezier.md) | [OpenGL](opengl.md) | [Ray Tracing](ray_traci
 ## Inbox
 
 + [Articles on fractals, computer graphics, mathematics, demoscene and more](http://iquilezles.org/www/index.htm)
- - https://news.ycombinator.com/item?id=15188152
+   - https://news.ycombinator.com/item?id=15188152
 + [Casual Introduction to Low-Level Graphics Programming](http://stephaniehurlburt.com/blog/2016/10/28/casual-introduction-to-low-level-graphics-programming)
 + [Pixar in a Box](https://www.khanacademy.org/partner-content/pixar)
    - https://news.ycombinator.com/item?id=10129914
