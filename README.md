@@ -33,18 +33,18 @@ Menu: [Bezier Curves](bezier.md) | [OpenGL](opengl.md) | [Ray Tracing](ray_traci
 
 ## Image Processing
 
-+ [[https://codewords.recurse.com/issues/six/image-processing-101][Image Processing 101]]
-   - https://news.ycombinator.com/item?id=11264005
++ [Image Processing 101](https://codewords.recurse.com/issues/six/image-processing-101)
+    - https://news.ycombinator.com/item?id=11264005
 
 ## Mandelbrot
 
 + https://medium.com/dailyjs/the-mandelwat-set-c3037204bf83
-   - https://news.ycombinator.com/item?id=13999110
+    - https://news.ycombinator.com/item?id=13999110
 + https://en.m.wikipedia.org/wiki/Burning_Ship_fractal
-   - https://news.ycombinator.com/item?id=12581569
+    - https://news.ycombinator.com/item?id=12581569
 + [Haskell Progressive Example](http://yannesposito.com/Scratch/en/blog/Haskell-OpenGL-Mandelbrot/)
 + [The Mandelbrot set in JavaScript](http://slicker.me/fractals/fractals.htm)
-   - https://news.ycombinator.com/item?id=11776778
+    - https://news.ycombinator.com/item?id=11776778
 + [Mandelbrot Set with SIMD Intrinsics](http://nullprogram.com/blog/2015/07/10/)
-   - https://news.ycombinator.com/item?id=9866613
+    - https://news.ycombinator.com/item?id=9866613
 + [The Real 3D Mandelbrot Set](https://christopherolah.wordpress.com/2011/08/08/the-real-3d-mandelbrot-set/)
