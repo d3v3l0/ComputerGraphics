@@ -1,12 +1,8 @@
-#+STARTUP: showall
-#+TITLE: OpenGL
-#+AUTHOR: http://h4labs.com
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+# OpenGL
 
-#+INCLUDE: "graphics_menu.org"
+## Inbox
 
-* Inbox
-+ [[https://github.com/ssloy/tinyrenderer/wiki][How OpenGL works: software renderer in 500 lines of code]]
++ [How OpenGL works: software renderer in 500 lines of code](https://github.com/ssloy/tinyrenderer/wiki)
  - https://news.ycombinator.com/item?id=11264469
 + http://learnopengl.com
  - https://news.ycombinator.com/item?id=9751666
@@ -31,9 +27,10 @@
 + http://www.reddit.com/r/gamedev/comments/2eb5d8/copenglsdl_game_engine_tutorials_for_an_absolute
 + http://www.joshbarczak.com/blog/?p=558 - Why Triangles
 
-* Shaders
+## Shaders
+
 + http://github.com/mattdesl/lwjgl-basics/wiki/Shaders
-+ [[https://notes.underscorediscovery.com/shaders-a-primer/][Primer: Shaders]]
++ [Primer: Shaders](https://notes.underscorediscovery.com/shaders-a-primer/)
  - http://news.ycombinator.com/item?id=7536034 - Primer: Shaders
 + http://patriciogonzalezvivo.com/2015/thebookofshaders
  - http://news.ycombinator.com/item?id=9215582 - The Book of Shaders
@@ -43,19 +40,22 @@
 + http://shdr.bkcore.com
 
 
-* iOS
+## iOS
+
 + http://www.raywenderlich.com/3664/opengl-es-20-for-iphone-tutorial
 + http://iphone-development-source-codes.blogspot.in/2012/02/resources-for-learning-iphone-opengl-es.html
 + http://iphonedevelopment.blogspot.in/2009/05/opengl-es-from-ground-up-table-of.html
 
-* Android
+## Android
+
 + http://www.droidnova.com/android-3d-game-tutorial-part-i,312.html
 
-* WebGL
+## WebGL
+
 + http://medium.com/social-tables-tech/hello-world-webgl-79f430446b5c
 + http://news.ycombinator.com/item?id=8417178 - Shdr - Online GLSL shader editor and validator with live preview
 
-#+BEGIN_EXAMPLE
+```
 Window coordinates
   (0,0) to (320,480)
 
@@ -179,5 +179,5 @@ var matrix = [
 
 
 ...in row-major order, diagonally transposed from the OpenGL spec for a matrix. This is such a common pain point that many matrix libraries meant for use with WebGL contain a function to swap array values between column and row major layouts.
-#+END_EXAMPLE
+```
 
