@@ -12,9 +12,9 @@
   - https://news.ycombinator.com/item?id=15939036
 - https://news.ycombinator.com/item?id=15522428
 - http://mrl.nyu.edu/~perlin/raytrace1_breakdown/
- - https://news.ycombinator.com/item?id=13563577
+  - https://news.ycombinator.com/item?id=13563577
 - [A minimal raytracer](https://mzucker.github.io/2016/08/03/miniray.html)
- - https://news.ycombinator.com/item?id=12311860
+  - https://news.ycombinator.com/item?id=12311860
 - [Back to Ray Tracing](http://www.lexicallyscoped.com/2013/05/16/back-to-ray-tracing.html)
 - [New mini-book: Ray Tracing in One Weekend](http://psgraphics.blogspot.com/2016/01/new-mini-book-ray-tracing-in-one-weekend.html)
   - https://github.com/mebmichael/InOneWeekendSwift - Swift port
