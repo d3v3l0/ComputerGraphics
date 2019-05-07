@@ -10,7 +10,8 @@
 - http://psgraphics.blogspot.com/2017/12/rendering-moon-sun-and-sky.html
 - [Webassembly Raytracer](https://sniklaus.com/blog/raytracer)
   - https://news.ycombinator.com/item?id=15939036
-- https://news.ycombinator.com/item?id=15522428
+- [A reasonably speedy Python ray-tracer](https://www.excamera.com/sphinx/article-ray.html)
+   - https://news.ycombinator.com/item?id=15522428
 - http://mrl.nyu.edu/~perlin/raytrace1_breakdown/
   - https://news.ycombinator.com/item?id=13563577
 - [A minimal raytracer](https://mzucker.github.io/2016/08/03/miniray.html)
