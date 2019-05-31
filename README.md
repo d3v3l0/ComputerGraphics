@@ -40,6 +40,8 @@ Menu: [Bezier Curves](bezier.md) | [OpenGL](opengl.md) | [Ray Tracing](ray_traci
 
 ## Mandelbrot
 
+- [Generating the Mandelbrot Set](https://scionofbytes.me/misc/generating-mandelbrot-fractals/)
+   - https://news.ycombinator.com/item?id=20059993
 - https://medium.com/dailyjs/the-mandelwat-set-c3037204bf83
     - https://news.ycombinator.com/item?id=13999110
 - https://en.m.wikipedia.org/wiki/Burning_Ship_fractal
