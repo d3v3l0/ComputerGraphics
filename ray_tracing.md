@@ -2,6 +2,8 @@
 
 ## Inbox
 
+- [Photorealistic Path Tracer](http://thume.ca/ray-tracer-site/)
+   - https://news.ycombinator.com/item?id=20489570
 - [Ray-Strips: A Compact Mesh Representation for Interactive Ray Tracing](http://gamma.cs.unc.edu/RS/paper_rt07.pdf)
   - https://news.ycombinator.com/item?id=19848906
 - http://www.realtimerendering.com/blog/an-introduction-to-ray-tracing-is-now-free-for-download/
