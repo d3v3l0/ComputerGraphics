@@ -2,6 +2,7 @@
 
 ## Inbox
 
+- [C++ vs OCaml: Ray tracer comparison](https://news.ycombinator.com/item?id=20721070)
 - [Photorealistic Path Tracer](http://thume.ca/ray-tracer-site/)
    - https://news.ycombinator.com/item?id=20489570
 - [Ray-Strips: A Compact Mesh Representation for Interactive Ray Tracing](http://gamma.cs.unc.edu/RS/paper_rt07.pdf)
