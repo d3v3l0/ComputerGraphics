@@ -2,6 +2,8 @@
 
 ## Inbox
 
+- [Ray Tracing in Excel](https://www.reddit.com/r/gamedev/comments/ctf9f7/raytracing_in_excel_incl_excel_model_link_and/)
+   - https://news.ycombinator.com/item?id=20764825
 - [C++ vs OCaml: Ray tracer comparison](https://news.ycombinator.com/item?id=20721070)
 - [Photorealistic Path Tracer](http://thume.ca/ray-tracer-site/)
    - https://news.ycombinator.com/item?id=20489570
