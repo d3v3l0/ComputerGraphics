@@ -2,6 +2,7 @@
 
 ## Inbox
 
+- https://alain.xyz/blog/raytracing-denoising
 - https://news.ycombinator.com/item?id=20828751
 - [Tiny Ray Tracer](https://gabrielgambetta.com/tiny-raytracer.html)
 - [Part I: Raytracing - Gabriel Gambetta](https://gabrielgambetta.com/computer-graphics-from-scratch/raytracing.html)
