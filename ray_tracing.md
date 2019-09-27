@@ -26,6 +26,7 @@
 - [A minimal raytracer](https://mzucker.github.io/2016/08/03/miniray.html)
   - https://news.ycombinator.com/item?id=12311860
 - [Back to Ray Tracing](http://www.lexicallyscoped.com/2013/05/16/back-to-ray-tracing.html)
+- https://raytracing.github.io/books/RayTracingInOneWeekend.html
 - [New mini-book: Ray Tracing in One Weekend](http://psgraphics.blogspot.com/2016/01/new-mini-book-ray-tracing-in-one-weekend.html)
   - https://github.com/mebmichael/InOneWeekendSwift - Swift port
   - https://github.com/Ceroce/SwiftRay - Swift port - Swift port
