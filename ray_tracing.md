@@ -2,6 +2,7 @@
 
 ## Inbox
 
+- [Ray Tracing a Tiny Procedure Planet](https://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf)
 - https://alain.xyz/blog/raytracing-denoising
 - https://news.ycombinator.com/item?id=20828751
 - [Tiny Ray Tracer](https://gabrielgambetta.com/tiny-raytracer.html)
