@@ -40,6 +40,8 @@ Menu: [Bezier Curves](bezier.md) | [OpenGL](opengl.md) | [Ray Tracing](ray_traci
 
 ## Mandelbrot
 
+- https://en.scratch-wiki.info/wiki/Recursion_and_Fractals
+   - https://news.ycombinator.com/item?id=21879638
 - [Generating the Mandelbrot Set](https://scionofbytes.me/misc/generating-mandelbrot-fractals/)
    - https://news.ycombinator.com/item?id=20059993
 - https://medium.com/dailyjs/the-mandelwat-set-c3037204bf83
