@@ -2,6 +2,7 @@
 
 ## Inbox
 
+- https://news.developer.nvidia.com/ray-tracing-essentials-part-1-basics-of-ray-tracing/
 - [Ray Tracing a Tiny Procedure Planet](https://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf)
 - https://alain.xyz/blog/raytracing-denoising
 - https://news.ycombinator.com/item?id=20828751
