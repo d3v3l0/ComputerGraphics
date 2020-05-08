@@ -2,6 +2,7 @@
 
 ## Inbox
 
+- https://fabiensanglard.net/revisiting_the_businesscard_raytracer/index.html
 - https://news.developer.nvidia.com/ray-tracing-essentials-part-1-basics-of-ray-tracing/
   - https://news.ycombinator.com/item?id=22346380
 - [Ray Tracing a Tiny Procedure Planet](https://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf)
